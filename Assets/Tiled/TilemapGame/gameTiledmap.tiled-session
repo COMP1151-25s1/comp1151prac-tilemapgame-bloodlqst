@@ -1,0 +1,53 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "comp1151prac-tilemapgame-bloodlqst/Tilesheet/week9 Tilemap.tmx",
+    "expandedProjectPaths": [
+        "comp1151prac-tilemapgame-bloodlqst/Tilesheet",
+        "comp1151prac-tilemapgame-bloodlqst",
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "comp1151prac-tilemapgame-bloodlqst/Tilesheet/tilemap.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "comp1151prac-tilemapgame-bloodlqst/Tilesheet/tilesheet.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "comp1151prac-tilemapgame-bloodlqst/Tilesheet/week9 Tilemap.tmx": {
+            "scale": 3,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": -68.66666666666663,
+                "y": 67.33333333333334
+            }
+        }
+    },
+    "last.imagePath": "//claudius.science.mq.edu.au/49196936/.Documents/GitHub/comp1151prac-tilemapgame-bloodlqst/Assets/Tiled/TilemapGame",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "comp1151prac-tilemapgame-bloodlqst/Tilesheet/week9 Tilemap.tmx",
+        "comp1151prac-tilemapgame-bloodlqst/Tilesheet/tilesheet.tsx"
+    ],
+    "project": "gameTiledmap.tiled-project",
+    "recentFiles": [
+        "comp1151prac-tilemapgame-bloodlqst/Tilesheet/tilesheet.tsx",
+        "comp1151prac-tilemapgame-bloodlqst/Tilesheet/week9 Tilemap.tmx",
+        "comp1151prac-tilemapgame-bloodlqst/Tilesheet/tilemap.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.margin": 0,
+    "tileset.spacing": 1,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
