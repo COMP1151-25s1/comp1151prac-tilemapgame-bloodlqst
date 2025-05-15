@@ -1,5 +1,5 @@
 {
-    "activeFile": "C:/Users/49196936/Documents/GitHub/comp1151prac-tilemapgame-bloodlqst/Assets/Tilesheet/tilesheet.tsx",
+    "activeFile": "C:/Users/49196936/Documents/GitHub/comp1151prac-tilemapgame-bloodlqst/Assets/Tilesheet/week9 Tilemap.tmx",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
@@ -16,8 +16,8 @@
             "scale": 1.1973958333333334,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 0,
-                "y": 246.3679860809047
+                "x": 161.18312309699866,
+                "y": 42.59243149195299
             }
         }
     },
@@ -29,8 +29,8 @@
     ],
     "project": "tiledProject.tiled-project",
     "recentFiles": [
+        "C:/Users/49196936/Documents/GitHub/comp1151prac-tilemapgame-bloodlqst/Assets/Tilesheet/tilesheet.tsx",
         "C:/Users/49196936/Documents/GitHub/comp1151prac-tilemapgame-bloodlqst/Assets/Tilesheet/tilemap.tsx",
-        "C:/Users/49196936/Documents/GitHub/comp1151prac-tilemapgame-bloodlqst/Assets/Tilesheet/week9 Tilemap.tmx",
-        "C:/Users/49196936/Documents/GitHub/comp1151prac-tilemapgame-bloodlqst/Assets/Tilesheet/tilesheet.tsx"
+        "C:/Users/49196936/Documents/GitHub/comp1151prac-tilemapgame-bloodlqst/Assets/Tilesheet/week9 Tilemap.tmx"
     ]
 }
