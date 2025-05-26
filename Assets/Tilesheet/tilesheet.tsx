@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tileset version="1.10" tiledversion="1.11.2" name="tilesheet" tilewidth="16" tileheight="16" spacing="1" tilecount="132" columns="12">
+ <properties>
+  <property name="unity:IsTrigger" value="true"/>
+  <property name="unity:layer" value="Hazard"/>
+ </properties>
  <image source="../Tiled/TilemapGame/tilemap.png" width="203" height="186"/>
  <tile id="1">
   <objectgroup draworder="index" id="2">

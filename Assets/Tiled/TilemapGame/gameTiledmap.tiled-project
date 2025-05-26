@@ -7,6 +7,18 @@
     "folders": [
     ],
     "properties": [
+        {
+            "name": "unity:IsTrigger",
+            "propertytype": "",
+            "type": "string",
+            "value": "true"
+        },
+        {
+            "name": "unity:layer",
+            "propertytype": "",
+            "type": "string",
+            "value": "Hazard"
+        }
     ],
     "propertyTypes": [
     ]
