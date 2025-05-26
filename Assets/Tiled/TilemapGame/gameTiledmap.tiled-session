@@ -6,20 +6,21 @@
     "activeFile": "C:/Users/CooperPC/Documents/GitHub/comp1151prac-tilemapgame-bloodlqst/Assets/Tilesheet/week9 Tilemap.tmx",
     "expandedProjectPaths": [
         "comp1151prac-tilemapgame-bloodlqst/Tilesheet",
-        ".",
-        "comp1151prac-tilemapgame-bloodlqst"
+        "comp1151prac-tilemapgame-bloodlqst",
+        "."
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "C:/Users/CooperPC/Documents/GitHub/comp1151prac-tilemapgame-bloodlqst/Assets/Tilesheet/tilesheet.tsx": {
-            "scaleInDock": 1.5
+            "scaleInDock": 1.5,
+            "scaleInEditor": 3
         },
         "C:/Users/CooperPC/Documents/GitHub/comp1151prac-tilemapgame-bloodlqst/Assets/Tilesheet/week9 Tilemap.tmx": {
-            "scale": 1.5,
-            "selectedLayer": 1,
+            "scale": 0.75,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 48.66666666666663,
-                "y": 178
+                "x": 332,
+                "y": 309.33333333333337
             }
         },
         "comp1151prac-tilemapgame-bloodlqst/Tilesheet/tilemap.tsx": {
@@ -39,21 +40,25 @@
             }
         }
     },
+    "last.externalTilesetPath": "C:/Users/CooperPC/Documents/GitHub/comp1151prac-tilemapgame-bloodlqst/Assets/Tilesheet",
     "last.imagePath": "//claudius.science.mq.edu.au/49196936/.Documents/GitHub/comp1151prac-tilemapgame-bloodlqst/Assets/Tiled/TilemapGame",
     "map.fixedSize": false,
     "map.lastUsedFormat": "tmx",
     "map.tileHeight": 16,
     "map.tileWidth": 16,
     "openFiles": [
-        "C:/Users/CooperPC/Documents/GitHub/comp1151prac-tilemapgame-bloodlqst/Assets/Tilesheet/week9 Tilemap.tmx"
+        "C:/Users/CooperPC/Documents/GitHub/comp1151prac-tilemapgame-bloodlqst/Assets/Tilesheet/week9 Tilemap.tmx",
+        "C:/Users/CooperPC/Documents/GitHub/comp1151prac-tilemapgame-bloodlqst/Assets/Tilesheet/tilesheet.tsx"
     ],
     "project": "gameTiledmap.tiled-project",
     "recentFiles": [
+        "C:/Users/CooperPC/Documents/GitHub/comp1151prac-tilemapgame-bloodlqst/Assets/Tilesheet/tilesheet.tsx",
         "C:/Users/CooperPC/Documents/GitHub/comp1151prac-tilemapgame-bloodlqst/Assets/Tilesheet/week9 Tilemap.tmx",
         "comp1151prac-tilemapgame-bloodlqst/Tilesheet/tilesheet.tsx",
         "comp1151prac-tilemapgame-bloodlqst/Tilesheet/week9 Tilemap.tmx",
         "comp1151prac-tilemapgame-bloodlqst/Tilesheet/tilemap.tsx"
     ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx",
     "tileset.margin": 0,
     "tileset.spacing": 1,
