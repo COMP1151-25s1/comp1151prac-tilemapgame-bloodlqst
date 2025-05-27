@@ -5,9 +5,9 @@
     },
     "activeFile": "C:/Users/CooperPC/Documents/GitHub/comp1151prac-tilemapgame-bloodlqst/Assets/Tilesheet/week9 Tilemap.tmx",
     "expandedProjectPaths": [
+        "comp1151prac-tilemapgame-bloodlqst",
         "comp1151prac-tilemapgame-bloodlqst/Tilesheet",
-        ".",
-        "comp1151prac-tilemapgame-bloodlqst"
+        "."
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -16,11 +16,11 @@
             "scaleInEditor": 3
         },
         "C:/Users/CooperPC/Documents/GitHub/comp1151prac-tilemapgame-bloodlqst/Assets/Tilesheet/week9 Tilemap.tmx": {
-            "scale": 2,
-            "selectedLayer": 0,
+            "scale": 1.5,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 75,
-                "y": 194.5
+                "x": 458.66666666666663,
+                "y": -214
             }
         },
         "comp1151prac-tilemapgame-bloodlqst/Tilesheet/tilemap.tsx": {
