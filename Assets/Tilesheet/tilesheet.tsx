@@ -210,6 +210,33 @@
    <object id="1" x="0" y="0" width="16" height="16"/>
   </objectgroup>
  </tile>
+ <tile id="64">
+  <properties>
+   <property name="unity:IsTrigger" value="true"/>
+   <property name="unity:layer" value="Graves"/>
+  </properties>
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="1" y="1" width="14" height="14"/>
+  </objectgroup>
+ </tile>
+ <tile id="65">
+  <properties>
+   <property name="unity:IsTrigger" value="true"/>
+   <property name="unity:layer" value="Graves"/>
+  </properties>
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="1" y="1" width="14" height="14"/>
+  </objectgroup>
+ </tile>
+ <tile id="114">
+  <properties>
+   <property name="unity:IsTrigger" value="true"/>
+   <property name="unity:layer" value="Health Pot"/>
+  </properties>
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="3" y="2" width="10" height="13"/>
+  </objectgroup>
+ </tile>
  <tile id="121">
   <properties>
    <property name="unity:IsTrigger" value="true"/>
