@@ -210,4 +210,13 @@
    <object id="1" x="0" y="0" width="16" height="16"/>
   </objectgroup>
  </tile>
+ <tile id="121">
+  <properties>
+   <property name="unity:IsTrigger" value="true"/>
+   <property name="unity:layer" value="Ghost"/>
+  </properties>
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="0" y="1" width="16" height="15"/>
+  </objectgroup>
+ </tile>
 </tileset>
