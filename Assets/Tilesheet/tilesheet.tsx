@@ -366,7 +366,7 @@
    <property name="unity:layer" value="Ghost"/>
   </properties>
   <objectgroup draworder="index" id="2">
-   <object id="1" x="0" y="1" width="16" height="15"/>
+   <object id="1" x="1.36364" y="2.27273" width="13.3636" height="12.5455"/>
   </objectgroup>
  </tile>
 </tileset>
