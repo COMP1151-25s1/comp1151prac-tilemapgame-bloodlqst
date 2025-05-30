@@ -371,7 +371,8 @@
  </tile>
  <tile id="82">
   <properties>
-   <property name="unity:IsTrigger" value="false"/>
+   <property name="unity:IsTrigger" value="true"/>
+   <property name="unity:layer" value="Barrel"/>
   </properties>
   <objectgroup draworder="index" id="2">
    <object id="1" x="1" y="0" width="14" height="16"/>
