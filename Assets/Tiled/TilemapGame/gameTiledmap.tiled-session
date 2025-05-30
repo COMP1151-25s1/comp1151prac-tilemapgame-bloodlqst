@@ -16,11 +16,11 @@
             "scaleInEditor": 4
         },
         "C:/Users/CooperPC/Documents/GitHub/comp1151prac-tilemapgame-bloodlqst/Assets/Tilesheet/week9 Tilemap.tmx": {
-            "scale": 1.5,
-            "selectedLayer": 4,
+            "scale": 5.5,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 458.66666666666663,
-                "y": -214
+                "x": 183.27272727272728,
+                "y": 58.72727272727273
             }
         },
         "comp1151prac-tilemapgame-bloodlqst/Tilesheet/tilemap.tsx": {
