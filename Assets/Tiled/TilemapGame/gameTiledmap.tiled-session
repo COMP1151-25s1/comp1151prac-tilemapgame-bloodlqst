@@ -3,11 +3,11 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "C:/Users/CooperPC/Documents/GitHub/comp1151prac-tilemapgame-bloodlqst/Assets/Tilesheet/week9 Tilemap.tmx",
+    "activeFile": "C:/Users/CooperPC/Documents/GitHub/comp1151prac-tilemapgame-bloodlqst/Assets/Tilesheet/tilesheet.tsx",
     "expandedProjectPaths": [
         ".",
-        "comp1151prac-tilemapgame-bloodlqst/Tilesheet",
-        "comp1151prac-tilemapgame-bloodlqst"
+        "comp1151prac-tilemapgame-bloodlqst",
+        "comp1151prac-tilemapgame-bloodlqst/Tilesheet"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -16,11 +16,11 @@
             "scaleInEditor": 4
         },
         "C:/Users/CooperPC/Documents/GitHub/comp1151prac-tilemapgame-bloodlqst/Assets/Tilesheet/week9 Tilemap.tmx": {
-            "scale": 5.5,
-            "selectedLayer": 5,
+            "scale": 1,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 183.27272727272728,
-                "y": 58.72727272727273
+                "x": 45,
+                "y": 64
             }
         },
         "comp1151prac-tilemapgame-bloodlqst/Tilesheet/tilemap.tsx": {
@@ -52,8 +52,8 @@
     ],
     "project": "gameTiledmap.tiled-project",
     "recentFiles": [
-        "C:/Users/CooperPC/Documents/GitHub/comp1151prac-tilemapgame-bloodlqst/Assets/Tilesheet/tilesheet.tsx",
         "C:/Users/CooperPC/Documents/GitHub/comp1151prac-tilemapgame-bloodlqst/Assets/Tilesheet/week9 Tilemap.tmx",
+        "C:/Users/CooperPC/Documents/GitHub/comp1151prac-tilemapgame-bloodlqst/Assets/Tilesheet/tilesheet.tsx",
         "comp1151prac-tilemapgame-bloodlqst/Tilesheet/tilesheet.tsx",
         "comp1151prac-tilemapgame-bloodlqst/Tilesheet/week9 Tilemap.tmx",
         "comp1151prac-tilemapgame-bloodlqst/Tilesheet/tilemap.tsx"
