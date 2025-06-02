@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 1401032263678394014}
   - component: {fileID: -7713426011614381418}
   - component: {fileID: 6643191238848983460}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Warrior
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -178,7 +178,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3517038142232022200}
   - component: {fileID: 9092758294794897134}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: tilesheet.Sprite.118
   m_TagString: Untagged
   m_Icon: {fileID: 0}
