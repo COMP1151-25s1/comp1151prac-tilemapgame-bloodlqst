@@ -852,12 +852,12 @@ namespace Unity.VisualScripting.Generated.Aot
 	// --------------- Plugin Stubs
 	// --------------- Asset Stubs
 	// UnityEngine.Component.Destroy
-	// UnityEngine.GameObject.Find
-	// UnityEngine.Transform.position
-	// UnityEngine.GameObject.transform
 	// UnityEngine.AudioSource.PlayClipAtPoint
-	// UnityEngine.GameObject.Destroy
+	// UnityEngine.GameObject.transform
+	// UnityEngine.Transform.position
+	// UnityEngine.GameObject.Find
 	// UnityEngine.Rigidbody2D.linearVelocity
+	// UnityEngine.GameObject.Destroy
 	// UnityEngine.Time.deltaTime
 	// UnityEngine.Random.Range
 	// UnityEngine.Quaternion.identity
@@ -10641,15 +10641,27 @@ namespace Unity.VisualScripting.Generated.Aot
 			optimized.Invoke(default(object[]));
 		}
 		
-		// UnityEngine.GameObject.Find
+		// UnityEngine.AudioSource.PlayClipAtPoint
 		[global::UnityEngine.Scripting.PreserveAttribute()]
-		public static void UnityEngine_GameObject_Find()
+		public static void UnityEngine_AudioSource_PlayClipAtPoint()
 		{
-			string arg0 = default(string);
-			global::UnityEngine.GameObject.Find(arg0);
-			global::Unity.VisualScripting.StaticFunctionInvoker<string, UnityEngine.GameObject> optimized = new global::Unity.VisualScripting.StaticFunctionInvoker<string, UnityEngine.GameObject>(default(global::System.Reflection.MethodInfo));
-			optimized.Invoke(null, arg0);
+			global::UnityEngine.AudioClip arg0 = default(global::UnityEngine.AudioClip);
+			global::UnityEngine.Vector3 arg1 = default(global::UnityEngine.Vector3);
+			float arg2 = default(float);
+			global::UnityEngine.AudioSource.PlayClipAtPoint(arg0, arg1, arg2);
+			global::Unity.VisualScripting.StaticActionInvoker<UnityEngine.AudioClip, UnityEngine.Vector3, float> optimized = new global::Unity.VisualScripting.StaticActionInvoker<UnityEngine.AudioClip, UnityEngine.Vector3, float>(default(global::System.Reflection.MethodInfo));
+			optimized.Invoke(null, arg0, arg1, arg2);
 			optimized.Invoke(default(object[]));
+		}
+		
+		// UnityEngine.GameObject.transform
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_GameObject_transform()
+		{
+			global::UnityEngine.GameObject target = default(global::UnityEngine.GameObject);
+			global::UnityEngine.Transform accessor = target.transform;
+			global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.GameObject, UnityEngine.Transform> optimized = new global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.GameObject, UnityEngine.Transform>(default(global::System.Reflection.PropertyInfo));
+			optimized.GetValue(default(global::UnityEngine.GameObject));
 		}
 		
 		// UnityEngine.Transform.position
@@ -10664,36 +10676,13 @@ namespace Unity.VisualScripting.Generated.Aot
 			optimized.SetValue(default(global::UnityEngine.Transform), default(global::UnityEngine.Vector3));
 		}
 		
-		// UnityEngine.GameObject.transform
+		// UnityEngine.GameObject.Find
 		[global::UnityEngine.Scripting.PreserveAttribute()]
-		public static void UnityEngine_GameObject_transform()
+		public static void UnityEngine_GameObject_Find()
 		{
-			global::UnityEngine.GameObject target = default(global::UnityEngine.GameObject);
-			global::UnityEngine.Transform accessor = target.transform;
-			global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.GameObject, UnityEngine.Transform> optimized = new global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.GameObject, UnityEngine.Transform>(default(global::System.Reflection.PropertyInfo));
-			optimized.GetValue(default(global::UnityEngine.GameObject));
-		}
-		
-		// UnityEngine.AudioSource.PlayClipAtPoint
-		[global::UnityEngine.Scripting.PreserveAttribute()]
-		public static void UnityEngine_AudioSource_PlayClipAtPoint()
-		{
-			global::UnityEngine.AudioClip arg0 = default(global::UnityEngine.AudioClip);
-			global::UnityEngine.Vector3 arg1 = default(global::UnityEngine.Vector3);
-			float arg2 = default(float);
-			global::UnityEngine.AudioSource.PlayClipAtPoint(arg0, arg1, arg2);
-			global::Unity.VisualScripting.StaticActionInvoker<UnityEngine.AudioClip, UnityEngine.Vector3, float> optimized = new global::Unity.VisualScripting.StaticActionInvoker<UnityEngine.AudioClip, UnityEngine.Vector3, float>(default(global::System.Reflection.MethodInfo));
-			optimized.Invoke(null, arg0, arg1, arg2);
-			optimized.Invoke(default(object[]));
-		}
-		
-		// UnityEngine.GameObject.Destroy
-		[global::UnityEngine.Scripting.PreserveAttribute()]
-		public static void UnityEngine_GameObject_Destroy()
-		{
-			global::UnityEngine.Object arg0 = default(global::UnityEngine.Object);
-			global::UnityEngine.Object.Destroy(arg0);
-			global::Unity.VisualScripting.StaticActionInvoker<UnityEngine.Object> optimized = new global::Unity.VisualScripting.StaticActionInvoker<UnityEngine.Object>(default(global::System.Reflection.MethodInfo));
+			string arg0 = default(string);
+			global::UnityEngine.GameObject.Find(arg0);
+			global::Unity.VisualScripting.StaticFunctionInvoker<string, UnityEngine.GameObject> optimized = new global::Unity.VisualScripting.StaticFunctionInvoker<string, UnityEngine.GameObject>(default(global::System.Reflection.MethodInfo));
 			optimized.Invoke(null, arg0);
 			optimized.Invoke(default(object[]));
 		}
@@ -10708,6 +10697,17 @@ namespace Unity.VisualScripting.Generated.Aot
 			global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.Rigidbody2D, UnityEngine.Vector2> optimized = new global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.Rigidbody2D, UnityEngine.Vector2>(default(global::System.Reflection.PropertyInfo));
 			optimized.GetValue(default(global::UnityEngine.Rigidbody2D));
 			optimized.SetValue(default(global::UnityEngine.Rigidbody2D), default(global::UnityEngine.Vector2));
+		}
+		
+		// UnityEngine.GameObject.Destroy
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_GameObject_Destroy()
+		{
+			global::UnityEngine.Object arg0 = default(global::UnityEngine.Object);
+			global::UnityEngine.Object.Destroy(arg0);
+			global::Unity.VisualScripting.StaticActionInvoker<UnityEngine.Object> optimized = new global::Unity.VisualScripting.StaticActionInvoker<UnityEngine.Object>(default(global::System.Reflection.MethodInfo));
+			optimized.Invoke(null, arg0);
+			optimized.Invoke(default(object[]));
 		}
 		
 		// UnityEngine.Time.deltaTime
