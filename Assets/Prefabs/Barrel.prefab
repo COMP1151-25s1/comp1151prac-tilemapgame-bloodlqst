@@ -16,6 +16,7 @@ GameObject:
   - component: {fileID: 5767748384402419826}
   - component: {fileID: -7566475808810881363}
   - component: {fileID: -8218293882607255206}
+  - component: {fileID: -5533093985497511727}
   m_Layer: 13
   m_Name: Barrel
   m_TagString: Untagged
@@ -250,7 +251,7 @@ AudioSource:
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -332,3 +333,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!81 &-5533093985497511727
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8225886859732353060}
+  m_Enabled: 1
